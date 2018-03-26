@@ -140,4 +140,4 @@ Choose one from below:
 - Database
   - Using complex data structures
   - Understanding and using table connections
-  - Understanding migration
+  - [Understanding migration](https://github.com/greenfox-academy/matchmaking/blob/JAR-25/src/main/resources/db/migration/V0__initial.sql)
