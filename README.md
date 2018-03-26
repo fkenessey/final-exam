@@ -39,7 +39,7 @@ The student, on their own, is able to:
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
-## [Queries]()
+## [Queries](https://github.com/greenfox-academy/fkenessey/blob/master/week-06/Day-2/Exercise-09/src/Exercise09.java)
   - usage of language integrated quaries e.g. LINQ/StreamApi
   - understanding the syntax
   - able to write simple custom quaries
